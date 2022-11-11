@@ -19,5 +19,6 @@ This template variable would convert the classic/standard e-commerce transaction
 ![Screenshot](screenshot_02.png)
 
 1. Open the GA4 purchase event tag & go to `More Settings`
-2. Check `Send Ecommerce data` 6. Select `Custom Object` from the **Data Source** drop down
-3. Select the variable that created in step 3 from the **Ecommerce Object** drop down
+2. Check `Send Ecommerce data`
+3. Select `Custom Object` from the **Data Source** drop down
+4. Select the variable that created in step 3 from the **Ecommerce Object** drop down
