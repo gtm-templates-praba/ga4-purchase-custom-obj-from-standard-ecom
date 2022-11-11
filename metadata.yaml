@@ -1,0 +1,6 @@
+homepage: 'https://codechilli.lk'
+documentation: ''
+versions:
+ # Latest version
+ - sha:
+   changeNotes: Initial release.
