@@ -2,13 +2,13 @@
 
 This template variable would convert the classic/standard e-commerce transaction data layer into a Custom Object that can be used in the GA4 event tag to send the purchase event.
 
-![Screenshot](screenshot_00.png)
+![Screenshot](screenshot_1.png)
 
 ## How to use?
 
 ### Creating the variable
 
-![Screenshot](screenshot_01.png)
+![Screenshot](screenshot_2.png)
 
 1. Once the template is downloaded from the Gallery (or imported using this repository), go to `Variables` > `New` > `GA4 Purchase Custom Object from Standard Ecommerce DataLayer`
 2. Enter the Currency code manually or reference it to a variable (currency is a required parameter in GA4)
@@ -16,7 +16,7 @@ This template variable would convert the classic/standard e-commerce transaction
 
 ### GA4 Event Tag
 
-![Screenshot](screenshot_02.png)
+![Screenshot](screenshot_3.png)
 
 1. Open the GA4 purchase event tag & go to `More Settings`
 2. Check `Send Ecommerce data`
