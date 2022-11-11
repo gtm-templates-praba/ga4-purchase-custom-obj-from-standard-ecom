@@ -1,6 +1,6 @@
 homepage: 'https://codechilli.lk'
-documentation: ''
+documentation: 'https://github.com/gtm-templates-praba/ga4-purchase-custom-obj-from-standard-ecom/blob/main/README.md'
 versions:
  # Latest version
- - sha:
+ - sha: e6e9e6c232334075164ecd2d7f8557adc6d7e379
    changeNotes: Initial release.
