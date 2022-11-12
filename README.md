@@ -22,4 +22,4 @@ This template variable would convert the classic/standard e-commerce transaction
 2. Expand `Ecommerce`
 3. Check `Send Ecommerce data`
 4. Select `Custom Object` from the **Data Source** drop down
-5. Select the variable that created in step 3 from the **Ecommerce Object** drop down
+5. Select the variable from the **Ecommerce Object** drop down
